@@ -2,6 +2,8 @@
 
 Recomenda o melhor combustivel para abastecer o seu carro, baseado no preco encontrado nas bombas e o desempenho que seu carro tem com Etanol ou Gasolina.
 
+<img src="https://github.com/rectius/kotlin-calcula-flex/blob/master/screen-calcula-flex.png?raw=true" alt="calculaflex" />
+
 ## Problema
 
 O cálculo do rendimento do carro é importante, pois o motorista poderá verificar também qual combustível é mais econômico em função do preço na bomba. 
